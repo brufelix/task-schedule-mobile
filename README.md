@@ -1,5 +1,5 @@
-# task-schedule
-Agenda de tarefas, foi implementado um back-end para realizar o cadastro de usuário e armazenar as tarefas em um banco de dados.
+# task-schedule-mobile
+Agenda de tarefas móvel, foi implementado o back-end para realizar o cadastro de usuário e armazenar as tarefas em um banco de dados.
 <p>
 <img src="https://github.com/brufelix/task-schedule/blob/master/images/WhatsApp%20Image%202020-03-09%20at%2011.09.00(1).jpeg" width=200/>
 <img src="https://github.com/brufelix/task-schedule/blob/master/images/WhatsApp%20Image%202020-03-09%20at%2011.09.00.jpeg" width=200/>
@@ -17,7 +17,6 @@ Agenda de tarefas, foi implementado um back-end para realizar o cadastro de usu�
   - **_Expo_**
 - **Motivação**
   - Feito para a pratica da linguagem javascript e da biblioteca react.js .
-- **Exercutar aplicação móvel**
   
  - **Exercutar Servidor**
       > Comando para instalar Postgres, caso não instalado. 
@@ -38,11 +37,11 @@ Agenda de tarefas, foi implementado um back-end para realizar o cadastro de usu�
         - *Porta alocada para o servidor escutar: 33000*
         - `sudo npm install i`
         - `npm start`
-        
- > Utilizando o Expo.
-  
-  > Comandos dentro do diretório do projeto.  
-  - Certifique-se que atribuiu o enderenço IP do servidor no arquivo *task-schedule/tasks/src/common.js*.
-  - `$ sudo npm install -g expo-cli`
-  - `$ sudo npm i`
-  - `$ sudo npm start`
+ - **Exercutar aplicação móvel**
+   > Utilizando o Expo.
+
+    > Comandos dentro do diretório do projeto.  
+    - Certifique-se que atribuiu o enderenço IP do servidor no arquivo *task-schedule/tasks/src/common.js*.
+    - `$ sudo npm install -g expo-cli`
+    - `$ sudo npm i`
+    - `$ sudo npm start`
