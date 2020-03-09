@@ -34,13 +34,14 @@ Agenda de tarefas móvel, foi implementado o back-end para realizar o cadastro d
         > Exercute o comando dentro da pasta do projeto tasks-backend depois de inserir os dados no knexfile.js
          - knex migrate:latest
       - Iniciar Servidor 
+        > Comandos dentro do diretório tasks-backend
         - *Porta alocada para o servidor escutar: 33000*
         - `sudo npm install i`
         - `npm start`
  - **Exercutar aplicação móvel**
    > Utilizando o Expo.
 
-    > Comandos dentro do diretório do projeto.  
+    > Comandos dentro do diretório do tasks.  
     - Certifique-se que atribuiu o enderenço IP do servidor no arquivo *task-schedule/tasks/src/common.js*.
     - `$ sudo npm install -g expo-cli`
     - `$ sudo npm i`
