@@ -13,6 +13,8 @@ Agenda de tarefas móvel.
 - **Tecnologias Utilizadas**
   - **_React_**
   - **_React Native_**
+  - **Node.js**
+  - **Postman**
   - **_Expo_**
 - **Motivação**
   - Feito para a pratica da linguagem javascript e do framework react.js `
